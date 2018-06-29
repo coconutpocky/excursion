@@ -6,10 +6,42 @@
   text-align: center;
 }
 
+.title2 {
+  font-family: Verdana;
+  font-weight: 300;
+  font-size: 42px;
+  color: White;
+  text-align: center;
+}
+
 body {
   background-color: Black;
 }
 
 .link {
   text-align: center;
+  color: Aquamarine;
+  font-size: 16px;
+}
+
+.descrip {
+font-family:  Verdana;
+font-size: 21px;
+color: Gray;
+text-align: center;
+}
+
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+
+.iphone {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50px;
+  height: 80px;
 }
